@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zulfirmn&label=Profile%20views&color=129e00&style=plastic" alt="zulfirmn" /> </p>
+
 ### Hi there 👋
 
 ## I'm Firman.
@@ -9,16 +11,12 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-- 🌐 &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-- 🛢 &nbsp;
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-- ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333334?style=flat&logo=rabbitmq&logoColor=ff7f00)
-- 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Chrome](https://img.shields.io/badge/-Chrome-333334?style=flat&logo=googlechrome&logoColor=ffffff)
 
